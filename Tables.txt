@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <tr>
+          <th>Marc</th>    
+          <th>Marc</th>
+          <th>Marc</th>     
+        </tr>
+        <tr>
+          <td>James</td>
+          <td>James</td>
+          <td>James</td>
+        </tr>
+        <tr>
+          <td>Francis</td>
+          <td>Francis</td>
+          <td>Francis</td>
+        </tr>
+        <tr>
+            <td>Cleo</td>
+            <td>Cleo</td>
+            <td>Cleo</td>
+          </tr>
+      </table>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Red_Bull_F1_Car_%286349809466%29.jpg" alt="Car">
+</body>
+</html>
